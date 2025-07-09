@@ -2,7 +2,7 @@
 
 ;; Author: Thomas Freeman
 ;; Maintainer: Thomas Freeman
-;; Version: Thomas Freeman
+;; Version: 0.1
 ;; Package-Requires: ()
 ;; Homepage: 
 ;; Keywords: 
